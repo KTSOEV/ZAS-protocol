@@ -1,0 +1,10 @@
+C:\Users\Mernin\source\repos\ZipAndSend\ZipAndSend\bin\Debug\ZipAndSend.exe.config
+C:\Users\Mernin\source\repos\ZipAndSend\ZipAndSend\bin\Debug\ZipAndSend.exe
+C:\Users\Mernin\source\repos\ZipAndSend\ZipAndSend\bin\Debug\ZipAndSend.pdb
+C:\Users\Mernin\source\repos\ZipAndSend\ZipAndSend\obj\Debug\ZipAndSend.csproj.AssemblyReference.cache
+C:\Users\Mernin\source\repos\ZipAndSend\ZipAndSend\obj\Debug\ZipAndSend.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mernin\source\repos\ZipAndSend\ZipAndSend\obj\Debug\ZipAndSend.csproj.CoreCompileInputs.cache
+C:\Users\Mernin\source\repos\ZipAndSend\ZipAndSend\obj\Debug\ZipAndSend.exe
+C:\Users\Mernin\source\repos\ZipAndSend\ZipAndSend\obj\Debug\ZipAndSend.pdb
+C:\Users\Mernin\source\repos\ZipAndSend\ZipAndSend\bin\Debug\xNetStandard.dll
+C:\Users\Mernin\source\repos\ZipAndSend\ZipAndSend\obj\Debug\ZipAndSend.csproj.CopyComplete
